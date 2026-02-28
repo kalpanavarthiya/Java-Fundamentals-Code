@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/02-Expressions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03-User-Input" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04-Logical-operators" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05-Decision-Making" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
