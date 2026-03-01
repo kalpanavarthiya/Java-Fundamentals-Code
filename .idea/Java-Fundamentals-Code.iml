@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/03-User-Input" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04-Logical-operators" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05-Decision-Making" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06-Switch-Case" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
