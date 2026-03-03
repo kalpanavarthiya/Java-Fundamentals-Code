@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/05-Decision-Making" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/06-Switch-Case" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/07-For-Loops" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08-While-Loops" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
