@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/07-For-Loops" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/08-While-Loops" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/09-Nested-Loops" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10-Arrays" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
